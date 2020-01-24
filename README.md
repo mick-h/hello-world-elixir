@@ -1,7 +1,7 @@
 # HelloWorldElixir
 
 Simple application that runs a webserver on port 4002.  A GET request to http://localhost:4002 will return
-the version number in the mix.exs folder
+the version number in the mix.exs file
 
 ## Prerequisites
 
